@@ -1,5 +1,5 @@
-# My Learning Path
-This is where I keep my learning progress of languages and technologies that I find interesting.
+# My Learning Path (work in progress)
+This is where I keep my learning progress of languages and technologies that I find interesting. As of yet, It does not include things I learned in school.
 
 ## Table of Contents
 [React and Redux](#react-and-redux)<br>
